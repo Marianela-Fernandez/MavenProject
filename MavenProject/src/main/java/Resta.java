@@ -4,7 +4,7 @@ public class Resta {
 
 	private int num2;
 
-	public Suma(int n1, int n2) {
+	public Resta(int n1, int n2) {
 	    num1 = n1;
 	    num2 = n2;
 	}
